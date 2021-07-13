@@ -2,7 +2,7 @@ package com.example.facebook_clone.viewPager
 
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.example.facebook_clone.MainActivity
+import com.example.facebook_clone.ui.MainActivity
 
 class ViewPagerAdapter(
     mainActivity: MainActivity
